@@ -9,3 +9,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     var email = document.getElementById('email').value;
     document.getElementById('formOutput').textContent = 'Nombre: ' + name + ', Email: ' + email;
 });
+
+
+////Agregamos ultimos cambios en realease antes de lanzar a produccion*/
