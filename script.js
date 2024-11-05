@@ -9,3 +9,4 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     var email = document.getElementById('email').value;
     document.getElementById('formOutput').textContent = 'Nombre: ' + name + ', Email: ' + email;
 });
+//nueva FEACTURE al codigo
