@@ -15,4 +15,10 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 
 
 ////Agregamos ultimos cambios en realease antes de lanzar a produccion*/
+<<<<<<< HEAD
 >>>>>>> v1.0.0
+=======
+
+
+//Agregamosun nuevo HOTFIX    RECORDAR PRIMERO CREAR LA RAMA TEMPORA:*/
+>>>>>>> v1.0.1
